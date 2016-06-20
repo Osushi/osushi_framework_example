@@ -63,7 +63,7 @@ $ bin/codecept run
 License
 ---
 
-Copyright (C) Osushi.
+Copyright (C) [Osushi](https://github.com/Osushi)
 
 Author
 ---
