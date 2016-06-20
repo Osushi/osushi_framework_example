@@ -68,4 +68,4 @@ Copyright (C) Osushi.
 Author
 ---
 
-* Osushi
+* [Osushi](https://github.com/Osushi)
